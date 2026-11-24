@@ -1,2 +1,2 @@
 # basara
-Başara Yöntemi Bireyselleştirilmiş Okuma Yazma Eğitim Sistemi
+Basara Yöntemi Bireyselleştirilmiş Okuma Yazma Eğitim Sistemi

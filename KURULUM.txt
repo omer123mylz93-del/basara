@@ -1,4 +1,4 @@
-BAŞARA ÖĞRETMEN PANELİ
+BASARA ÖĞRETMEN PANELİ
 
 1. index.html dosyasını Chrome veya Edge ile açın. İnternet gerekmez.
 2. GitHub Pages için yeni bir depo oluşturun. index.html dosyasını deponun köküne yükleyin. Settings > Pages > Deploy from a branch > main / (root) seçin. Yayınlanan adresi GitHub gösterir.
