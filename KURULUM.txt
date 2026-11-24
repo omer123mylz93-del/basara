@@ -1,0 +1,7 @@
+BAŞARA ÖĞRETMEN PANELİ
+
+1. index.html dosyasını Chrome veya Edge ile açın. İnternet gerekmez.
+2. GitHub Pages için yeni bir depo oluşturun. index.html dosyasını deponun köküne yükleyin. Settings > Pages > Deploy from a branch > main / (root) seçin. Yayınlanan adresi GitHub gösterir.
+3. Uygulama sunucuya öğrenci kaydı göndermez. Kayıtlar tarayıcıya ve site adresine bağlıdır. Farklı cihazda yedeği dışa aktarın ve geri yükleyin. Gerçek öğrenci adı yerine kod kullanın; yedeği güvenli saklayın. Ortak cihazda veriyi temizleyin.
+4. Haftalık PDF düğmeleri hazır, sabit PDF dosyalarını indirir. Kişiselleştirilmiş kayıt çıktısı için Yazdır düğmesini kullanın.
+5. pdf/ klasöründe PDF dosyaları ayrıca bulunur.
